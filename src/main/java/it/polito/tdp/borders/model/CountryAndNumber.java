@@ -32,7 +32,4 @@ public class CountryAndNumber implements Comparable<CountryAndNumber> {
 		// ordine DECRESCENTE per numero
 		return -(this.number-other.number);
 	}
-	
-	
-
 }
